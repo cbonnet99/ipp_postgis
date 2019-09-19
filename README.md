@@ -1,0 +1,1 @@
+This is a Docker container for IPP PostGIS database, based on kartoza/postgis:9.6-2.4
